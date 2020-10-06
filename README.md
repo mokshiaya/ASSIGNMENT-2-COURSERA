@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Module 3 assignmest</title>
+<title></title>
 <meta charset="utf-8">
 <meta name="viewport"
 contetnt="width=device-width,initial-scale=1">
@@ -25,7 +25,7 @@ body {
   overflow: hidden;
   background-color: #333;
   position: relative;
-  align-self: center;
+  align: center;
 }
 
 .topnav #myLinks {
@@ -58,15 +58,15 @@ body {
   color: white;
 }
 .row{
-  margin-top: 5%;
-  margin-bottom: 5%;
+  margin-top: 6%;
+  margin-bottom: 6%;
 }
 h1 {
   margin-bottom: 17px;
   text-align: center;
-  color:blue;
+  color: blue;
   font-size: 50px;
-  font-family: Comic Sans MS;
+  font-family: ariel;
 }
 box {
   width: 100%;
@@ -88,9 +88,9 @@ box {
 .content 
 {
   border:3px solid black;
-  width: 300px;
-  height: 200px;
-  margin: 2.5%
+  width: 300x;
+  hieght: 200px;
+  margin: 2.5%;
   color:black;
   font-size: 25px;
   padding: 20px 20px 20px 20px;
@@ -101,18 +101,19 @@ box {
 background-color:maroon;  
 }
 .name2{
+background-color:aqua;  
+}
+
+.name3{
 background-color:teal;  
 }
-.name3{
-background-color:lime;  
-}
 @media (min-width: 992px) {
-  .col-lg-4{
+.col-lg-4{
   float:left;
   width:33.33%;
-  }
 }
-@media(min-width:768px)and(max-width:991px)
+}
+@media(min-width:768px)and(max-width:991)
 {
   .col-md-6,col-md-12;{
   float:left;
@@ -121,7 +122,7 @@ background-color:lime;
   width:50%;}
 .col-md-12{
   margin-left:-10px;
-  width:50%;}
+  width:50%;
 .name3{
   margin-right:65px;
   width:100px;
@@ -129,7 +130,6 @@ background-color:lime;
 }
 </style>
 </head>
-<h1>Assignment 2 Coursera</h1>
 <body>
 
 <!-- Simulate a smartphone / tablet -->
@@ -138,7 +138,7 @@ background-color:lime;
 <!-- Top Navigation Menu -->
 <div class="topnav">
   <a href="#home" class="active">Food LLC</a>
- <div id="myLinks">
+  <div id="myLinks">
     <a href="#news">Chicken</a>
     <a href="#contact">Beef</a>
     <a href="#about">Sushi</a>
@@ -147,42 +147,38 @@ background-color:lime;
     <i class="fa fa-bars"></i>
   </a>
   <div class="row">
-
 <div>
  <div class="col-lg-4 col-md-6 col-sm-12">
     <div class="box">
       <p class="content-name name1">
-        Chicken
+        Dummy
       </p>
       <p class="content">
-        This is a dummy text, no need to read this please do skip it.
+        This is a dummy text, no need to read this please do skip it , its no point in reading this.
       </p>
   </div>
   </div>
   <div class="col-lg-4 col-md-6 col-sm-12">
     <div class="box">
       <p class="content-name name2">
-        Beef
+        Dummy
       </p>
       <p class="content">
-        This is a dummy text too, no need to read this please do skip it.
+        This is a dummy text too, no need to read this please do skip it , its no point in reading this.
       </p>
     </div>
   </div>
   <div  class="col-lg-4 col-md-6 col-sm-12">
     <div class="box">
       <p class="content-name name3">
-        Sushi
+        Dummy
       </p>
       <p class="content">
-       This is a dummy text again, no need to read this please do skip it. 
+       This is a dummy text again, no need to read this please do skip it , its no point in reading this. 
       </p>
     </div>
   </div> <!-- Simulate a smartphone / tablet -->
     </div>
-  </div>
-</div>
-</div>
 <script>
 function myFunction() {
   var x = document.getElementById("myLinks");
