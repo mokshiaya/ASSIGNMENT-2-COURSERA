@@ -77,7 +77,7 @@ box {
   text-align: center;
   border: 5px solid black;
   width: 100px;
-  height: 30px;
+  height: 40px;
   padding: 2px;
   float:right;
   margin-top:4px;
@@ -88,8 +88,8 @@ box {
 .content 
 {
   border:3px solid black;
-  width: 290px;
-  height: 150px;
+  width: 300px;
+  height: 200px;
   margin: 2.5%
   color:black;
   font-size: 25px;
