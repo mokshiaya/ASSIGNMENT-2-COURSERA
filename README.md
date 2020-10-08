@@ -93,7 +93,7 @@
   <script src="https://marylou-pereira.github.io/Coursera-Assignments/js/jquery-2.1.4.min.js"></script>
   <script src="https://marylou-pereira.github.io/Coursera-Assignments/js/bootstrap.min.js"> </script>
 
-&lt;/body&gt;&lt;/html&gt;
+
 </div>
 
 
