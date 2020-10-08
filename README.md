@@ -7,8 +7,8 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="css/C:\Users\moksh\Downloads\bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="C:\Users\moksh\Downloads\Mod3style.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="Mod3style(1).css">
 </head>
 <body>
     <header>
