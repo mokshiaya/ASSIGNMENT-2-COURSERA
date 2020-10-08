@@ -8,7 +8,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://github.com/mokshiaya/ASSIGNMENT-2-COURSERA/blob/main/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="https://github.com/mokshiaya/ASSIGNMENT-2-COURSERA/blob/main/Mod3style%20(1).css">
+<link rel="stylesheet" type="text/css" href="https://github.com/marylou-pereira/Coursera-Assignments/blob/master/Mod3style.css">
 </head>
 <body>
     <header>
@@ -64,7 +64,7 @@
   	</div>	
   </div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script src="js/jquery-2.1.4.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
+  <script src="https://github.com/marylou-pereira/Coursera-Assignments/blob/master/js/jquery-2.1.4.min.js"></script>
+  <script src="https://github.com/marylou-pereira/Coursera-Assignments/blob/master/js/bootstrap.min.js"></script>
 </body>
 </html>
